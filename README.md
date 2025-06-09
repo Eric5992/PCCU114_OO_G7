@@ -53,10 +53,11 @@
 
 ## 操作流程範例
 ##### 啟動程式，看到主選單
-
+![image](https://github.com/user-attachments/assets/be689f26-cc1b-4842-bef6-89d7f70250d8)
 ##### 輸入 1 瀏覽主餐，輸入 1 4 將「BLT安格斯牛肉堡」和「大麥克」加入購物車。輸入 0 返回
-
+![image](https://github.com/user-attachments/assets/86bd0527-f37f-407e-827f-d64fe386e7ac)
 ##### 輸入 2 瀏覽飲料，輸入 3 將「可樂」加入購物車。輸入 0 返回
+![image](https://github.com/user-attachments/assets/25524336-76e0-41cf-b76a-eb78507fdeb2)
 
 ##### 這時發現點錯了，輸入 4 刪除餐點，再輸入 2 將「大麥克」移除。輸入 0 返回
 

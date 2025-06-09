@@ -49,29 +49,30 @@
 
 ## 安裝與執行
 ![image](https://github.com/user-attachments/assets/ca00865e-ef2f-4e88-9927-c47853c5a217)
-##### 下載解壓縮後開啟並使用Visual Studio執行
+### 下載解壓縮後開啟並使用Visual Studio執行
 
 ## 操作流程範例
-##### 啟動程式，看到主選單
+### 啟動程式，看到主選單
 ![image](https://github.com/user-attachments/assets/be689f26-cc1b-4842-bef6-89d7f70250d8)
-##### 輸入 1 瀏覽主餐，輸入 1 4 將「BLT安格斯牛肉堡」和「大麥克」加入購物車。輸入 0 返回
-![image](https://github.com/user-attachments/assets/86bd0527-f37f-407e-827f-d64fe386e7ac)
-##### 輸入 2 瀏覽飲料，輸入 3 將「可樂」加入購物車。輸入 0 返回
+### 輸入 1 瀏覽主餐，輸入 1 3 4 將「BLT安格斯牛肉堡」、「勁辣雞腿堡」和「大麥克」加入購物車。輸入 0 返回
+![image](https://github.com/user-attachments/assets/ac403bc7-13ef-4cb8-bfc0-14ad65fe6bfb)
+
+### 輸入 2 瀏覽飲料，輸入 3 將「可樂」加入購物車。輸入 0 返回
 ![image](https://github.com/user-attachments/assets/25524336-76e0-41cf-b76a-eb78507fdeb2)
 
-##### 這時發現點錯了，輸入 4 刪除餐點，再輸入 2 將「大麥克」移除。輸入 0 返回
+### 這時發現點錯了，輸入 4 刪除餐點，再輸入 3 將「大麥克」移除。輸入 0 返回
+![image](https://github.com/user-attachments/assets/9a9b6a67-23e9-47ad-8113-b2f401c93f2e)
+### 輸入 3 進入結帳
+### 系統詢問是否為會員，輸入 y，接著輸入學號 B1234567 登入，成功獲得 9 折優惠
+![image](https://github.com/user-attachments/assets/dcc01025-c8db-4e4b-89ad-558cf9cad05c)
+### 系統詢問是否有折價券，輸入 100off，成功折抵 100 元
+### 系統顯示最終帳單明細與應付金額
+![image](https://github.com/user-attachments/assets/fb2b8a3f-852a-4bfc-bcb7-e230c8c1b4e0)
 
-##### 輸入 3 進入結帳
+### 輸入支付的金額 500，系統計算找零
+![image](https://github.com/user-attachments/assets/079d33d9-948b-4e59-beb4-be6e400a866c)
 
-##### 系統詢問是否為會員，輸入 y，接著輸入學號 B1234567 登入，成功獲得 9 折優惠
-
-##### 系統詢問是否有折價券，輸入 100off，成功折抵 100 元
-
-##### 系統顯示最終帳單明細與應付金額
-
-##### 輸入支付的金額，系統計算找零
-
-##### 交易完成，程式結束
+### 交易完成，程式結束
 
 ### 其餘正在製作中
 

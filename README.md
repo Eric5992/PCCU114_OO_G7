@@ -74,6 +74,8 @@
 
 ### 交易完成，程式結束
 
+### UML
+![UML](https://github.com/user-attachments/assets/eb683821-41ea-4bef-83c2-d59016217c43)
 
 
 
